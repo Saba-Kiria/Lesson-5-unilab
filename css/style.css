@@ -57,3 +57,10 @@
 .box-3 {
 	margin-left: 16px;
 }
+.main-box2 {
+	margin-top: 15px;
+	margin-bottom: 128px;
+	float: left;
+	clear: both;
+	display: flex;
+}
