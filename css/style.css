@@ -1,0 +1,52 @@
+.container {
+	width: 1125px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 72px;
+
+}
+.h6 {
+	color: #5863F8;
+	font-size: 14px;
+	font-family: 'Poppins', sans-serif;
+}
+.h1 {
+	margin-top: 5px;
+	color: black;
+	font-size: 40px;
+	font-family: 'Poppins', sans-serif;
+}
+.main-box1 {
+	float: left;
+	margin-top: 54px;
+}
+.box1 {
+	width: 352px;
+	height: 212px;
+}
+.p1 {
+	margin-top: 23px;
+	margin-left: 124px;
+	color: #5863F8;
+	font-size: 14px;
+	font-family: 'Poppins', sans-serif;
+}
+.p2 {
+	margin-top: 6px;
+	margin-left: 79px;
+	font-size: 18px;
+	color: black;
+	font-family: 'Poppins', sans-serif;
+}
+.p3 {
+	margin-top: 11px;
+	margin-left: 46px;
+	font-size: 14;
+	color: #B1B1B1;
+	font-family: 'Poppins', sans-serif;
+
+}
+.pre1 {
+	margin-right: auto;
+	margin-left: auto;
+}
