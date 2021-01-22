@@ -19,10 +19,13 @@
 .main-box1 {
 	float: left;
 	margin-top: 54px;
+	clear: both;
+	display: flex;
 }
 .box1 {
-	width: 352px;
-	height: 212px;
+	clear: both;
+	display: table;
+
 }
 .p1 {
 	margin-top: 23px;
@@ -46,7 +49,11 @@
 	font-family: 'Poppins', sans-serif;
 
 }
-.pre1 {
-	margin-right: auto;
-	margin-left: auto;
+.box-2 {
+	float: left;
+	margin-left: 16px;
+
+}
+.box-3 {
+	margin-left: 16px;
 }
